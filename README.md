@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/maikdirocco/" target="_blank">
+  <a href="https://www.linkedin.com/in/miguelangeldirocco/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" />
   </a>
   <a href="mailto:maikdirocco@gmail.com">
