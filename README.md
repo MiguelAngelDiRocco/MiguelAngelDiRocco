@@ -1,7 +1,7 @@
 <h1 align="center">¡Hola, soy Miguel Angel! 👋 | Hey, I'm Miguel Angel!</h1>
 
 <p align="center">
-  <em>Data Analyst Jr & Data Scientist en formación · Aspiring Data Professional</em><br>
+  <em>Data Analyst Jr & Data Scientist en formación · Aspiring Data Science</em><br>
   📍 Mar del Plata, Argentina · 🌎 Open to remote opportunities
 
 </p>
