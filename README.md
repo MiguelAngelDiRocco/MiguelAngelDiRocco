@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/miguelangeldirocco/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat&logoColor=white" />
   </a>
-  <a href="mailto:maikdirocco@gmail.com">
+  <a href="mailto:migueldirocco.ds@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat&logoColor=white" />
   </a>
   <a href="https://maikdirocco.dev" target="_blank">
