@@ -1,8 +1,9 @@
-<h1 align="center">¡Hola, soy Maik! 👋 | Hey, I'm Maik!</h1>
+<h1 align="center">¡Hola, soy Miguel Angel! 👋 | Hey, I'm Miguel Angel!</h1>
 
 <p align="center">
-  <em>Data Analyst & Data Scientist en formación · Aspiring Data Professional</em><br>
-  📍 Mar del Plata, Argentina · 🌎 Abierto a oportunidades remotas
+  <em>Data Analyst Jr & Data Scientist en formación · Aspiring Data Professional</em><br>
+  📍 Mar del Plata, Argentina · 🌎 Open to remote opportunities
+
 </p>
 
 <p align="center">
@@ -11,9 +12,6 @@
   </a>
   <a href="mailto:migueldirocco.ds@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-D14836?logo=gmail&style=flat&logoColor=white" />
-  </a>
-  <a href="https://maikdirocco.dev" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000?logo=vercel&style=flat&logoColor=white" />
   </a>
 </p>
 
