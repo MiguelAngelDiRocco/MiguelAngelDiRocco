@@ -42,8 +42,6 @@ I'm passionate about learning, experimenting, and building solutions that matter
 
 ## 🛠️ Habilidades | Skills
 
-### 🔧 Habilidades | Skills
-
 | 💼 **Categoría**        | 🧠 **Tecnologías / Conceptos**                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------------|
 | 💻 **Lenguajes**        | `SQL` · `Python` · `DAX` ·                                                             |
