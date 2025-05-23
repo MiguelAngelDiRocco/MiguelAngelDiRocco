@@ -74,9 +74,9 @@ I'm passionate about learning, experimenting, and building solutions that matter
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maikdirocco&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miguelangeldirocco&show_icons=true&theme=default&hide_title=true&hide_border=true" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maikdirocco&layout=compact&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miguelangeldirocco&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
