@@ -46,8 +46,8 @@ I'm passionate about learning, experimenting, and building solutions that matter
 
 | 💼 **Categoría**        | 🧠 **Tecnologías / Conceptos**                                                                 |
 |------------------------|-----------------------------------------------------------------------------------------------|
-| 💻 **Lenguajes**        | `SQL` · `Python` · `DAX` · `Excel`                                                            |
-| 🛠️ **Herramientas**     | `Power BI` · `Power Query` · `Jupyter Notebook` · `Git`                                       |
+| 💻 **Lenguajes**        | `SQL` · `Python` · `DAX` ·                                                             |
+| 🛠️ **Herramientas**     | `Excel` · `Power BI` · `Power Query` · `Jupyter Notebook` · `Git`                                       |
 | 🗂️ **Modelado de Datos** | Modelo Estrella · Normalización · PK / FK                                                    |
 | 🔍 **Procesos**          | Limpieza de Datos · EDA · Visualización · Storytelling con datos                            |
 | 🤝 **Soft Skills**       | Pensamiento crítico · Comunicación efectiva · Trabajo en equipo                             |
