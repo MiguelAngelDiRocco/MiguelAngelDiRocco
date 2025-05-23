@@ -30,9 +30,8 @@ I'm passionate about learning, experimenting, and building solutions that matter
 ## 🚀 Actualmente | Currently
 
 🎓 **Estudiando:**
-- Coderhouse - Análisis de Datos
-- Google Data Analytics (Coursera)
-- Google Advanced Data Analytics (Coursera)
+- Coderhouse Data Science
+- Google Advanced Data Analytics
 - SQL · Python · Excel · Power BI · Matemáticas para Ciencia de Datos
 
 🔍 **En búsqueda de:**
@@ -58,17 +57,17 @@ I'm passionate about learning, experimenting, and building solutions that matter
 
 ## 📊 Proyectos destacados | Featured Projects
 
-🔹 **Dashboard de Autos Usados (Power BI)**  
+🔹 **Dashboard de Autos Usados EAU (Power BI)**  
 > Análisis completo del mercado automotor en EAU  
-🔗 [`Ver en GitHub`](https://github.com/maikdirocco/proyecto-autos)
+🔗 [`Ver en GitHub`](https://github.com/MiguelAngelDiRocco/proyecto-de-analisis-de-datos-3)
 
-🔹 **Base de Datos Relacional para E-Commerce**  
+🔹 **Modelo Entidad-Relacion**  
 > Diseño de modelo ER, normalización y relaciones  
-🔗 [`Ver en GitHub`](https://github.com/maikdirocco/modelo-ecommerce)
+🔗 [`Ver en GitHub`](https://github.com/MiguelAngelDiRocco/data-analytics-project-2)
 
 🔹 **Limpieza de Datos Multiherramienta**  
-> Excel · Power Query · Python en Jupyter Notebook  
-🔗 [`Ver en GitHub`](https://github.com/maikdirocco/limpieza-datos)
+> Excel · Power Query · SQL Server  
+🔗 [`Ver en GitHub`](https://github.com/MiguelAngelDiRocco/data-analytics-project-1)
 
 ---
 
@@ -84,10 +83,9 @@ I'm passionate about learning, experimenting, and building solutions that matter
 
 ## 🧩 Fun Facts
 
-- 💪 Practico **armwrestling** y me interesa la biomecánica deportiva  
-- 🎮 Fan de los **MMORPG** como Metin2, Lineage y WoW  
-- 🧩 Estoy diseñando mi propio videojuego con **Godot Engine**  
-- 📚 Creo más en las **preguntas inteligentes** que en las respuestas perfectas
+- 💪 Practico **Futbol, Padel y Gimnasio** Soy un apasionado por el deporte de alto rendimiento
+- 🎮 Fan de los **MMORPG** como Metin2, y **SHOOTERS** como Counter Strike 
+- 📚 Tengo la creencia de que se puede hacer la diferencia **mediante los datos** 
 
 ---
 
