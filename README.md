@@ -57,11 +57,11 @@ I'm passionate about learning, experimenting, and building solutions that matter
 
 🔹 **Proyecto Final Data Analytics Coderhouse (10)**  
 > (Documentacion y dashboard en Power BI)
-🔗 [`Ver en GitHub`]
-> (https://github.com/MiguelAngelDiRocco/data-analytics-project-final)  
+
+🔗 [`Ver en GitHub`](https://github.com/MiguelAngelDiRocco/data-analytics-project-final)  
 
 🔹 **Dashboard de Autos Usados EAU (Power BI)**  
-> Análisis completo del mercado automotor en EAU  
+> Análisis completo del mercado automotor en EAU
 🔗 [`Ver en GitHub`](https://github.com/MiguelAngelDiRocco/proyecto-de-analisis-de-datos-3)
 
 🔹 **Modelo Entidad-Relacion**  
