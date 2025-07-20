@@ -87,7 +87,7 @@ I'm passionate about learning, experimenting, and building solutions that matter
 
 ## 🧩 Fun Facts
 
-- 💪 Practico **Futbol, Padel y Gimnasio** Soy un apasionado por el deporte de alto rendimiento
+- 💪 Practico **Futbol, Padel, Gimnasio y Ajedrez** Soy un apasionado por el deporte de alto rendimiento
 - 🎮 Fan de los **MMORPG** como Metin2, y **SHOOTERS** como Counter Strike 
 - 📚 Tengo la creencia de que se puede hacer la diferencia **mediante los datos** 
 
