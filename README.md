@@ -56,7 +56,7 @@ I'm passionate about learning, experimenting, and building solutions that matter
 ## 📊 Proyectos destacados | Featured Projects
 
 🔹 **Proyecto Final Data Analytics Coderhouse (10)**  
-> Análisis completo del mercado automotor en EAU (Documentacion y dashboard en Power BI)
+> (Documentacion y dashboard en Power BI)
 🔗 [`Ver en GitHub`](https://github.com/MiguelAngelDiRocco/data-analytics-project-final)
 
 🔹 **Dashboard de Autos Usados EAU (Power BI)**  
