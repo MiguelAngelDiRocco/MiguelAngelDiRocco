@@ -62,6 +62,7 @@ I'm passionate about learning, experimenting, and building solutions that matter
 
 🔹 **Dashboard de Autos Usados EAU (Power BI)**  
 > Análisis completo del mercado automotor en EAU
+
 🔗 [`Ver en GitHub`](https://github.com/MiguelAngelDiRocco/proyecto-de-analisis-de-datos-3)
 
 🔹 **Modelo Entidad-Relacion**  
